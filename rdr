@@ -1,0 +1,111 @@
+
+
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
+  <title>SLOT GACOR PALING GAMPANG MAXWIN</title>
+  <meta http-equiv="refresh" content="1; url=https://suleprikitiw.art/">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0
+    }
+
+    body {
+      background: #111;
+      color: #eee
+    }
+
+    main {
+      display: grid;
+      min-height: 100vh
+    }
+
+    .mputama {
+      margin: auto;
+      padding: 1rem;
+      text-align: center
+    }
+
+    .mpjk {
+      font-size: 1.38rem
+    }
+
+    .mpnk {
+      font-size: 1.38rem
+    }
+
+    .mpimgatas {
+      height: auto;
+      max-width: 100%
+    }
+
+    .mpcf {
+      display: none
+    }
+
+    h1 {
+      -webkit-text-fill-color: hsla(0, 0%, 100%, 0);
+      animation: animate 1.5s linear infinite;
+      background: linear-gradient(90deg, #000, #000, #000);
+      -webkit-background-clip: text;
+      background-repeat: no-repeat;
+      background-size: 80%;
+      font-size: 1.5rem;
+      margin: 1rem
+    }
+
+    @keyframes animate {
+      0% {
+        background-position: -500%
+      }
+
+      to {
+        background-position: 500%
+      }
+    }
+  </style>
+  <meta http-equiv="refresh" content="35">
+</head>
+
+<body>
+  <main>
+    <div class=mputama>
+      <img class="mpimgatas" src="https://i.ibb.co/SR1KjNP/mxwin.png" height="500" width="500">
+      <div class=mpinfo>
+        <h1>MOHON DITUNGGU</h1>
+        <p class=mpjk>SEGERA DIARAHKAN MENUJU SITUS TERGACOR<span id="seconds"> 1</span> Detik</p>
+        <p class=mpnk>Jika tidak diarahkan secara otomatis, <a href="https://suleprikitiw.art/">klik di sini</a>.</p>
+        <!-- HTML meta refresh URL redirection -->
+        <meta http-equiv="refresh" content="1; url=https://suleprikitiw.art/">
+        </head>
+
+        <body>
+          <div id="clock">
+
+          </div>
+          <a href="https://suleprikitiw.art/"></a></p>
+        </body>
+
+</html>
+
+<body>
+</body>
+
+<script nonce="MTI5NjUxNjU4MCwyMDYzNzcxMDYx">timeLeft = 3;
+
+  function countdown() {
+    timeLeft--;
+    document.getElementById("seconds").innerHTML = String(timeLeft);
+    if (timeLeft > 0) {
+      setTimeout(countdown, 1000);
+    }
+  };
+
+  setTimeout(countdown, 1000);
+</script>
