@@ -1,0 +1,275 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Konsultasi Tata Usaha OK</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0" />
+    <link rel="apple-touch-icon" sizes="180x180" href="./img/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./img/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="./img/favicon/favicon-16x16.png" />
+    <link rel="manifest" href="./img/favicon/site.webmanifest" />
+    <link rel="mask-icon" href="./img/favicon/safari-pinned-tab.svg" color="#5bbad5" />
+    <link rel="shortcut icon" href="./img/favicon/favicon.ico" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta name="msapplication-TileColor" content="#2d89ef" />
+    <meta name="msapplication-config" content="./img/favicon/browserconfig.xml" />
+    <meta name="theme-color" content="#ffffff" />
+    <meta name="format-detection" content="telephone=no" />
+    <link rel="stylesheet" media="all" href="./theme/hesk3/customer/css/app.min.css?3.4.2" />
+    <!--[if IE]>
+    <link rel="stylesheet" media="all" href="./theme/hesk3/customer/css/ie9.css" />
+    <![endif]-->
+    <style>
+        @media screen and (max-width: 600px) {
+          .hidedong {
+            visibility: hidden;
+            position: absolute;
+            left: 0;
+          }
+          .fitral-text-kecil {
+            font-size:0px;
+          }
+        }
+        @media screen and (min-width: 601px) {
+          .fitral-text-besar {
+            font-size:12px;
+          }
+        }
+        
+                .fitral{display:-ms-inline-flexbox;display:inline-flex;-ms-flex-align:center;align-items:center;width:100%;max-width:280px;margin:16px;padding:16px;box-shadow:0 4px 8px 0 rgba(38,40,42,.3);background-color:#fff;letter-spacing:.1px;color:#000000;transition:none}
+        .fitral:hover{box-shadow:0 2px 3px 0 rgba(38,40,42,.4);transition:none;background-color:#dcecdf}
+        .fitral .fitral__title{font-size:14px;font-weight:700;line-height:1.5;color:#036111}
+        .fitral .fitral__descr{font-size:12px}
+        .fitral .fitral-icon-in-circle{margin-right:12px}
+        .fitral:hover>.fitral-icon-in-circle .icon{transition:none;fill:#fff}
+        .fitral-condensed{margin:8px;padding:8px;box-shadow:0 2px 5px 0 rgba(38,40,42,.1)}
+        .fitral-condensed:hover{box-shadow:0 4px 6px 0 rgba(38,40,42,.1)}
+        .ratefitral { display: -ms-inline-flexbox;
+                display: inline-flex;
+                margin-left: auto;
+                font-size: 12px;
+                letter-spacing: .1px
+            }
+        .topics__block {
+            width: 50%;
+        }
+        .fitral-icon-in-circle {
+            width: 40px;
+            height: 40px;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            -ms-flex-pack: center;
+            justify-content: center;
+            -ms-flex-align: center;
+            align-items: center;
+            background-color: #ffffff;
+            border-radius: 50%;
+        }
+    </style>
+    <!-- Custom code to be included before </head> tag --></head>
+
+<body class="cust-help">
+    <!-- div style="position:fixed;right:20px;bottom:20px;">
+    <a href="https://wa.me/+62895332004883?text=Saleum,%20Hai%20Tim%20KOTAK,%20Saya%20ingin%20berkonsultasi..." target="blank">
+    <p class="fitral-text-kecil fitral-text-besar" style="color:green;text-align:center;">Konsultasi<br/>Tim KOTAK : <br/>
+    <i class="fa fa-whatsapp fitral-icon-in-circle" style="font-size:48px;color:green;background-color:#ffffff;"></i></p>
+    </a>
+    </div -->
+<!-- Custom code to be included after <body> tag --><div class="wrapper">
+    <main class="main">
+        <header class="header">
+            <div class="contr">
+                <div class="header__inner">
+                    <img src="/artikel/gambar/logo bps panjang.png"></img><img src="img/logokotak.png"></img>
+                                    </div>
+            </div>
+        </header>
+        <div class="breadcrumbs">
+            <div class="contr">
+                <div class="breadcrumbs__inner">
+                    <a href="https://aceh.bps.go.id">
+                        <span>BPS Aceh</span>
+                    </a>
+                    <svg class="icon icon-chevron-right">
+                        <use xlink:href="./theme/hesk3/customer/img/sprite.svg#icon-chevron-right"></use>
+                    </svg>
+                    <div class="last">Konsultasi Tata Usaha OK</div>
+                    <div class="ratefitral">
+                        <a href="/artikel/pedoman/Pedoman Web Kotak.pdf" target="_blank">
+                            <svg class="icon icon-document">
+                                <use xlink:href="./theme/hesk3/customer/img/sprite.svg#icon-export"></use>
+                            </svg>Unduh Panduan</a>&nbsp&nbsp&nbsp|&nbsp                        
+                        <a href="https://qna.bpsaceh.com/knowledgebase.php?article=83">
+                            <svg class="icon icon-document">
+                                <use xlink:href="./theme/hesk3/customer/img/sprite.svg#icon-info"></use>
+                            </svg>Filosofi Logo KOTAK<svg class="icon icon-document">
+                            <svg class="icon icon-document">
+                                <use xlink:href="./theme/hesk3/customer/img/sprite.svg#icon-info"></use>
+                            </svg></a>&nbsp&nbsp&nbsp|&nbsp
+                        <a href="index.php?a=add&category=1">
+                            <svg class="icon icon-document">
+                                <use xlink:href="./theme/hesk3/customer/img/sprite.svg#icon-submit-ticket"></use>
+                            </svg>Berikan Feedback</a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        <div class="main__content">
+            <div class="contr">
+                <div class="help-search">
+                    <h2 class="search__title">Saleum, ada yang bisa kami bantu?</h2>
+                            <form action="knowledgebase.php" method="get" style="display: inline; margin: 0;" name="searchform">
+            <div class="search__form">
+                <div class="form-group">
+                    <button class="btn search__submit">
+                        <svg class="icon icon-search">
+                            <use xlink:href="./theme/hesk3/customer/img/sprite.svg#icon-search"></use>
+                        </svg>
+                    </button>
+                    <input id="kb_search" name="search" class="form-control" type="text" placeholder="Cari di Knowledge kami ....">
+                                    </div>
+                <div class="kb-suggestions boxed">
+                    <h6>Artikel Knowledge Base yang disarankan:</h6>
+                    <ul id="kb-suggestion-list" class="type--list">
+                    </ul>
+                </div>
+            </div>
+        </form>
+                    </div>
+                <div>
+                    <img src="/artikel/gambar/kotak_modif.jpg"></img>
+                </div>
+                                <!-- div class="nav">
+                    <a href="https://wa.me/+62895332004883?text=Saleum,%20Hai%20Tim%20KOTAK,%20Saya%20ingin%20berkonsultasi..." target="blank" class="fitral">
+                        <div class="fitral-icon-in-circle">
+                            <i class="fa fa-whatsapp" style="font-size:48px;color:green"></i>
+                        </div>
+                        <div>
+                            <h5 class="fitral__title">WHATSAPP KOTAK</h5>
+                            <div class="fitral__descr">Hubungi PIC kami melalui Whatsapp</div>
+                        </div>
+                    </a>
+                </div> -->
+                <!-- div class="nav">
+                    <a href="index.php?a=add" class="fitral">
+                        <div class="icon-in-circle">
+                            <svg class="icon icon-submit-ticket">
+                                <use xlink:href="< ?php echo TEMPLATE_PATH; ?>customer/img/sprite.svg#icon-submit-ticket"></use>
+                            </svg>
+                        </div>
+                        <div>
+                            <h5 class="fitral__title">< ?php echo $hesklang['submit_ticket']; ?></h5>
+                            <div class="fitral__descr">< ?php echo $hesklang['open_ticket']; ?></div>
+                        </div>
+                    </a>
+                    <a href="ticket.php" class="fitral">
+                        <div class="icon-in-circle">
+                            <svg class="icon icon-document">
+                                <use xlink:href="< ?php echo TEMPLATE_PATH; ?>customer/img/sprite.svg#icon-document"></use>
+                            </svg>
+                        </div>
+                        <div>
+                            <h5 class="fitral__title">< ?php echo $hesklang['view_existing_tickets']; ?></h5>
+                            <div class="fitral__descr">< ?php echo $hesklang['vet']; ?></div>
+                        </div>
+                    </a>           
+                    <a href="/artikel/pedoman/Pedoman Web Kotak.pdf" target="_blank" class="fitral">
+                        <div class="icon-in-circle">
+                            <svg class="icon icon-document">
+                                <use xlink:href="./theme/hesk3/customer/img/sprite.svg#icon-export"></use>
+                            </svg>
+                        </div>
+                        <div>
+                            <h5 class="fitral__title">Unduh panduan</h5>
+                            <div class="fitral__descr">Tata cara penggunaan web KOTAK</div>
+                        </div>
+                    </a>
+                </div -->
+                                <article class="article">
+                    <h3 class="article__heading">
+                        <a href="knowledgebase.php">
+                            <div class="icon-in-circle">
+                                <svg class="icon icon-knowledge">
+                                    <use xlink:href="./theme/hesk3/customer/img/sprite.svg#icon-knowledge"></use>
+                                </svg>
+                            </div>
+                            <span>Knowledge Base Tata Usaha</span>
+                        </a>
+                    </h3>
+                    
+                    <div class="topics">
+                        <div class="topics__block">
+                            <h5 class="topics__title">
+                                <svg class="icon icon-folder">
+                                    <use xlink:href="./theme/hesk3/customer/img/sprite.svg#icon-folder"></use>
+                                </svg>
+                                <span>
+                                    <a class="title-link" href="knowledgebase.php?category=2">Arsip
+                                    </a>
+                                </span>
+                            </h5>
+                        </div>
+                        <div class="topics__block">
+                            <h5 class="topics__title">
+                                <svg class="icon icon-folder">
+                                    <use xlink:href="./theme/hesk3/customer/img/sprite.svg#icon-folder"></use>
+                                </svg>
+                                <span>
+                                    <a class="title-link" href="knowledgebase.php?category=4">SDM
+                                    </a>
+                                </span>
+                            </h5>
+                        </div>
+                        <div class="topics__block">
+                            <h5 class="topics__title">
+                                <svg class="icon icon-folder">
+                                    <use xlink:href="./theme/hesk3/customer/img/sprite.svg#icon-folder"></use>
+                                </svg>
+                                <span>
+                                    <a class="title-link" href="knowledgebase.php?category=5">BMN
+                                    </a>
+                                </span>
+                            </h5>
+                        </div>                    
+                        <div class="topics__block">
+                            <h5 class="topics__title">
+                                <svg class="icon icon-folder">
+                                    <use xlink:href="./theme/hesk3/customer/img/sprite.svg#icon-folder"></use>
+                                </svg>
+                                <span>
+                                    <a class="title-link" href="knowledgebase.php?category=6">Keuangan
+                                    </a>
+                                </span>
+                            </h5>
+                        </div>                        
+                        <div class="topics__block">
+                            <h5 class="topics__title">
+                                <svg class="icon icon-folder">
+                                    <use xlink:href="./theme/hesk3/customer/img/sprite.svg#icon-folder"></use>
+                                </svg>
+                                <span>
+                                    <a class="title-link" href="knowledgebase.php?category=7">Humas
+                                    </a>
+                                </span>
+                            </h5>
+                        </div>
+                    
+                    </div>    
+                        
+                    <br/>
+                        
+                    <div class="tabbed__head">
+                        <ul class="tabbed__head_tabs">
+                            
+                            </html>
+<div style="display:none">
+    <a href="https://recoveringspirit.com/" >slot777</a>
+    </div>
+</body>
+</html>
