@@ -1,0 +1,93 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>LIVESCORE PERTANDINGAN RESMI TERUPDATE</title>
+<link itemprop="mainEntityOfPage" rel="canonical" href="#">
+<meta name="description" content="Livescore pertandingan resmi terupdate dari pilihan provider terpercaya untuk bermain situs judi bola.">
+<meta name="keywords" content="Livescore, Update Livescore, slot gacor, judi bola, bandar togel, agen bola, sbobet, livescore, piala dunia, slot88, slot77, prediksi, livescore Livescore,euro 2024"/>
+<link rel="apple-touch-icon" sizes="180x180" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-32x32.png">
+<link rel="shortcut icon" href="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072019/square_app_icon.png?CpH8nsLVLtBAoInms0v8nmh7E0YM9vU4&itok=zYgzbCjU">
+<link rel="manifest" href="#">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<link rel="stylesheet" href="/style.css" />
+<style type="text/css">
+		body{
+            height: 100%;
+            margin: 0;
+			background-color: #3a3838dc;
+		}
+
+		#main-container{
+			margin-top: 30px;
+		}
+
+        .navbar-brand .logo {
+            max-width: 160px;
+            margin: 0 auto 30px;
+        }
+	</style>
+</head>
+<body>
+<nav id="navbar-online" class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+<div class="container">
+<a class="navbar-brand" href="/"><img src="https://www.livescore.com/ls-web-assets/images/live-score-outlined-74d06.webp" alt="logo" style="width: 180px"></a>
+</div>
+</nav>
+</div>
+<style>
+  body {
+    background-color: #3a3838dc; /* light grey background */
+  }
+
+  .blink {
+    animation: blink 2s infinite;
+  }
+
+  @keyframes blink {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.5;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+  .btn {
+    position: relative;
+    z-index: 1;
+  }
+
+  .iframe-container {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .iframe-container iframe {
+    margin-top: -85px; /* adjust the value to hide the header section */
+  }
+</style>
+<div class="row mt-1 iframe-container">
+  <div class="col">
+    <iframe src="https://www.aiscore.com/id" frameborder="0" width="100%" height="1500" scrolling="yes"></iframe>
+  </div>
+</div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script async src="https://cdn.ampproject.org/v0.js"></script>
+<script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+<script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+<script async custom-element="amp-anim" src="https://cdn.ampproject.org/v0/amp-anim-0.1.js"></script>
+<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+<script async custom-element="amp-lightbox" src="https://cdn.ampproject.org/v0/amp-lightbox-0.1.js"></script></body>
+</html>
